@@ -13,4 +13,4 @@
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/Mesit-Rathnayake/train-route-optimizer.git>
